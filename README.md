@@ -1,5 +1,10 @@
-# AVATAR: The Game Unpacker & Repacker
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)](https://github.com/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker)
+[![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)](https://github.com/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker)
+[![Platform](https://img.shields.io/badge/platform-windows-00ffff?style=for-the-badge&logo=windows&logoColor=00ffff&labelColor=1a4d66)](https://github.com/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker)
+[![Made for](https://img.shields.io/badge/made%20for-2009_AVATAR:_The_Game-00ffff?style=for-the-badge&logo=gamepad&logoColor=00ffff&labelColor=1a4d66)](https://github.com/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker)
+[![Tool Type](https://img.shields.io/badge/type-PAK%20unpacker%20%26%20repacker-00ffff?style=for-the-badge&logo=package&logoColor=00ffff&labelColor=1a4d66)](https://github.com/JasperZebra/AVATAR_The_Game_Unpacker_and_Repacker)
 
+# AVATAR: The Game Unpacker & Repacker
 This unpacker and repacker has support for both 32 Bit and 64 Bit systems.
 
 ## Features
